@@ -1,0 +1,4 @@
+Bundle-Name: sample-configurable-portlet
+Bundle-SymbolicName: it.dbb.sample.configurable.portlet
+Bundle-Version: 1.0.0
+Export-Package: it.dbb.sample.configurable.portlet.constants
